@@ -1,2 +1,3 @@
 # x_sandbox
-Created with CodeSandbox
+
+This was created with the purpose of get to know CodeSandbox.
